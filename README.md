@@ -5,6 +5,7 @@
 This project automates the extraction of meter readings and relevant data from scanned utility bill images using Optical Character Recognition (OCR). It significantly reduces manual entry workload and improves data accuracy for billing workflows.
 
 ⚙️ Features
+
 🔡 OCR Extraction: Detects and extracts text from scanned meter images using Tesseract and EasyOCR
 
 📄 Data Parsing: Identifies key fields like meter readings and IDs
